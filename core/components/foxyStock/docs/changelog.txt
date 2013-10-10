@@ -1,0 +1,9 @@
+FoxyStock Version: 1.0
+
+An extra for handling stock control with a FoxyCart store.
+Any question or emails, please email graeme@gelstudios.co.uk, or tweet @gel_studios
+
+Changelog :
+___________
+
+First public release
